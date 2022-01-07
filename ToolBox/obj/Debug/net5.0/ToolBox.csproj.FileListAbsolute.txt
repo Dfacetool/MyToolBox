@@ -1,0 +1,16 @@
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ToolBox.exe
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ToolBox.deps.json
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ToolBox.runtimeconfig.json
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ToolBox.runtimeconfig.dev.json
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ToolBox.dll
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ref\ToolBox.dll
+C:\Users\Dingz\source\Repos\ToolBox\bin\Debug\net5.0\ToolBox.pdb
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.csproj.AssemblyReference.cache
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.AssemblyInfoInputs.cache
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.AssemblyInfo.cs
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.dll
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ref\ToolBox.dll
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.pdb
+C:\Users\Dingz\source\Repos\ToolBox\obj\Debug\net5.0\ToolBox.genruntimeconfig.cache
