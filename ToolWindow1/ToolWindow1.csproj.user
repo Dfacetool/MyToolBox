@@ -7,11 +7,17 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="BMIcalculator.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="KeepOnTop.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="BMIcalculator.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="KeepOnTop.xaml">
       <SubType>Designer</SubType>
     </Page>

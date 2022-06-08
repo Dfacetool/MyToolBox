@@ -8,6 +8,9 @@
         Title="MainWindow" Height="200" Width="200" Background="#FFDCA6A6">
     <Grid>
         <Button Click="NewTopThing" Margin="10,10,100,133">置顶块</Button>
-
+        <Button Click="RecordWords" Margin="105,10,5,133" Content="记录单词" />
+        <Button Click="BMICalculator" Margin="10,67,100,76" Content="BMI" />
+        <Button Click="TranslateWords" Margin="105,67,5,76" Content="Translate" />
+        <Button Click="FunctionAlarm" Margin="10,123,100,20" Content="FunctionAlarm" />
     </Grid>
 </Window>

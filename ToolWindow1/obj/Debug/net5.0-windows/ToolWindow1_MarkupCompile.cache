@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Dingz\source\Repos\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\
+C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\
 ToolWindow1
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\Dingz\source\Repos\MyToolBox\ToolWindow1\App.xaml
-21232029346
+C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\App.xaml
+3489895594
 
-4-156059133
-193-1891726104
-KeepOnTop.xaml;MainWindow.xaml;
+5506415430
+201-1478607357
+BMIcalculator.xaml;KeepOnTop.xaml;MainWindow.xaml;
 
-True
+False
 
