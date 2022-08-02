@@ -53,7 +53,7 @@ namespace ToolWindow1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ToolWindow1;V1.0.0.0;component/keepontop.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ToolWindow1;component/keepontop.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\KeepOnTop.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

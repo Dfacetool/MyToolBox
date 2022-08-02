@@ -61,3 +61,7 @@ C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\bin\Debug\net5.0-windows\C
 C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
 C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\bin\Debug\net5.0-windows\ExcelNumberFormat.dll
 C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\refint\ToolWindow1.dll
+C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\FunctionAlarm.g.cs
+C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\TimePicker.g.cs
+C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\FunctionAlarm.baml
+C:\Users\Dingz\Documents\GitHub\MyToolBox\ToolWindow1\obj\Debug\net5.0-windows\TimePicker.baml

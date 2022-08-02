@@ -12,5 +12,6 @@
         <Button Click="BMICalculator" Margin="10,67,100,76" Content="BMI" />
         <Button Click="TranslateWords" Margin="105,67,5,76" Content="Translate" />
         <Button Click="FunctionAlarm" Margin="10,123,100,20" Content="FunctionAlarm" />
+        <Button Click="NewBackgroundThing" Margin="105,123,5,20" Content="背景块" />
     </Grid>
 </Window>

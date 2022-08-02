@@ -20,14 +20,17 @@ namespace ToolWindow1
     /// </summary>
     public partial class KeepOnTop : Window
     {
-        public KeepOnTop()
+        public KeepOnTop(bool a)
         {
+            if (a)
+            {
+                Topmost = true;
+            }
             InitializeComponent();
         }
 
         private void Window_Deactivated(object sender, EventArgs e)
         {
-            Topmost = true;
         }
     }
 }

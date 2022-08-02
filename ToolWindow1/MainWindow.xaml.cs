@@ -20,7 +20,15 @@ namespace ToolWindow1
 
         private void NewTopThing(object sender, RoutedEventArgs e)
         {
-            var a = new KeepOnTop();
+            var a = new KeepOnTop(true);
+            a.Height = 70;
+            a.Width = 1600;
+            a.Show();
+        }
+
+        private void NewBackgroundThing(object sender, RoutedEventArgs e)
+        {
+            var a = new KeepOnTop(false);
             a.Height = 70;
             a.Width = 1600;
             a.Show();

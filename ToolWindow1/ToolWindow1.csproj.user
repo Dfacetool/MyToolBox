@@ -10,7 +10,13 @@
     <Compile Update="BMIcalculator.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="FunctionAlarm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="KeepOnTop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TimePicker.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -18,10 +24,16 @@
     <Page Update="BMIcalculator.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="FunctionAlarm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="KeepOnTop.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TimePicker.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
